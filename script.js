@@ -3,5 +3,13 @@ function entrarNoCurso() {
 }
 
 function sairDoCurso() {
-    console.log("Saiu do curso!")
+    console.log("Saiu do curso!");
+}
+
+function fazerLogin() {
+    console.log("Fez login!");
+}
+
+function fazerLogOut() {
+    console.log("Fez Logout");
 }
